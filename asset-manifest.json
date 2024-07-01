@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ishodniy_kot/static/css/main.84965515.css",
+    "main.js": "/ishodniy_kot/static/js/main.119bcde4.js",
+    "static/media/vagonopen.png": "/ishodniy_kot/static/media/vagonopen.3b8ef636c756cd4352e7.png",
+    "index.html": "/ishodniy_kot/index.html",
+    "main.84965515.css.map": "/ishodniy_kot/static/css/main.84965515.css.map",
+    "main.119bcde4.js.map": "/ishodniy_kot/static/js/main.119bcde4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84965515.css",
+    "static/js/main.119bcde4.js"
+  ]
+}
